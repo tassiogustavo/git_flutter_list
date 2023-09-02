@@ -1,16 +1,21 @@
-# git_flutter
+# Git Adobe List Dart + Flutter
+## 📷 Video do Projeto
 
-A new Flutter project.
+https://github.com/tassiogustavo/git_flutter_list/assets/70405308/21c71844-5560-4832-a741-03a2ab980e3c
 
-## Getting Started
+## 📝 Descrição do projeto
+Projeto feito a partir de um tutorial do youtube que consiste em um aplicativo que lista os membros do github da adobe. Foi pego o link da lista de membros do github da adobe e listados no app. Utilizado a lib http para a requisição dos dados.
 
-This project is a starting point for a Flutter application.
+## 💻 Features do projeto
+* Lista de membros do github da Adobe
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias e ferramentas utilizadas
+* Dart
+* Flutter
+* LIB: http (Requisição dos dados)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 📌 Links
+* [http](https://pub.dev/packages/http)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📊 Status do projeto
+✅ Concluído
